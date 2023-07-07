@@ -1,0 +1,1 @@
+  -L"D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/lib"  -L"D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/../lib-common"  -lcs4722 -lglfw3 -lopengl32 -lglu32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

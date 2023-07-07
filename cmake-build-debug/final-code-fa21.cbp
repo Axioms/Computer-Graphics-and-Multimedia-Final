@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final-code-fa21"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\mixed-colors\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mixed-colors">
+				<Option output="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/mixed-colors.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/lib"/>
+					<Add directory="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/../lib-common"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 mixed-colors"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mixed-colors/fast">
+				<Option output="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/mixed-colors.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/lib"/>
+					<Add directory="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/../lib-common"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 mixed-colors/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/mixed-colors/mixed-colors.cpp">
+			<Option target="mixed-colors"/>
+		</Unit>
+		<Unit filename="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/mixed-colors/fragment_shader.glsl">
+			<Option virtualFolder="CMake Files\mixed-colors\"/>
+		</Unit>
+		<Unit filename="D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/mixed-colors/vertex_shader.glsl">
+			<Option virtualFolder="CMake Files\mixed-colors\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

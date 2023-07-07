@@ -1,0 +1,3 @@
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/CMakeFiles/mixed-colors.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/drive/College/Forth Year/Fall Semester/Computer Graphics and Multimedia/Final/final-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
